@@ -2,14 +2,10 @@
 
 ### Hello there =D
 
-<img src="https://img.shields.io/static/v1?label=Overview&message=SEUNOME&color=f8efd4&style=for-the-badge&logo=GitHub" style="margin: 30px">
-
-<p>
-
-Development Backend<br/>
+<p>Development Backend<br/>
 <p align="left"> 
-Inspirado por tecnologia e seu avanço desde criança.
-Há aproximadamente um ano e meio me identifiquei na área da programação e esse foi meu ponto de partida na minha jornada como "dev".
+  Inspirado por tecnologia e seu avanço desde criança.
+  Há aproximadamente um ano e meio me identifiquei na área da programação e esse foi meu ponto de partida na minha jornada como "dev".
 </p>
 
 <p align="left">
@@ -30,8 +26,6 @@ Há aproximadamente um ano e meio me identifiquei na área da programação e es
   <a href="https://wa.me/31993750285" alt="WhatsApp">
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP"/></a>
 </p>  
-
-  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
-
+  <img src="https://img.shields.io/static/v1?label=Overview&message=SEUNOME&color=f8efd4&style=for-the-badge&logo=GitHub">
 </p>
 <hr>
