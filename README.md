@@ -2,7 +2,7 @@
 
 ### Hello there =D
 
-<p>Development Backend<br/>
+<p>Backend Developer<br/>
 <p align="left"> 
   Inspirado por tecnologia e seu avanço desde criança.
   Há aproximadamente um ano e meio me identifiquei na área da programação e esse foi meu ponto de partida na minha jornada como "dev".
