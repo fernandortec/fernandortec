@@ -11,20 +11,16 @@ Development Backend<br/>
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Faça uma breve aprensentação sua com o seu nome e não esqueça a <strong>Sua área</strong>.<br>
-  Diga o que você está fazendo no momento, se trabalha ou estuda.
+Inspirado por tecnologia e seu avanço desde criança.
+Há aproximadamente um ano e meio me identifiquei na área da programação e esse foi meu ponto de partida na minha jornada como "dev".
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>Coloque as linguagens que você desenvolve.</strong>
+  🦄 Linguagens: <strong>JavaScript, TypeScript, NodeJS. AWS</strong>
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>Coloque as suas ferramentas de trabalho.</strong>
-</p>
-
-<p align="left">
-  💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
+  💌 entre em contato comigo :) fernandorfigueiredotec@gmail.com ⤵️
 </p>
 
 <p align="left">
