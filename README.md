@@ -9,14 +9,6 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>JavaScript, TypeScript, NodeJS. AWS</strong>
-</p>
-
-<p align="left">
-  💌 - entre em contato comigo :) - ⤵️
-</p>
-
-<p align="left">
   <a href="mailto:fernandorfigueiredotec@gmail.com" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL" /></a>
 
@@ -28,4 +20,13 @@
 </p>  
   <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 </p>
+
+<p align="left">
+  🦄 -Linguagens: <strong>JavaScript, TypeScript, NodeJS. AWS</strong>
+</p>
+
+<p align="left">
+  💌 - entre em contato comigo :) - ⤵️
+</p>
+
 <hr>
