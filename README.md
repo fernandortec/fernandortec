@@ -2,7 +2,7 @@
 
 ### Hello there =D
 
-<img src="https://img.shields.io/static/v1?label=Overview&message=SEUNOME&color=f8efd4&style=for-the-badge&logo=GitHub">
+<img src="https://img.shields.io/static/v1?label=Overview&message=SEUNOME&color=f8efd4&style=for-the-badge&logo=GitHub" margin=16px''>
 
 <p>
 
@@ -17,7 +17,7 @@ Há aproximadamente um ano e meio me identifiquei na área da programação e es
 </p>
 
 <p align="left">
-  💌 \ entre em contato comigo :) /  ⤵️
+  💌 - entre em contato comigo :) - ⤵️
 </p>
 
 <p align="left">
