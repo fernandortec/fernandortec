@@ -9,6 +9,7 @@
 </p>
 
 <p align="left">
+  <p></p>
   🦄 -Linguagens: <strong>JavaScript, TypeScript, NodeJS ReactJS</strong>
 </p>
 
