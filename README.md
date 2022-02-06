@@ -2,8 +2,8 @@
 
 <p>Backend Developer<br/>
 <p align="left"> 
-  Inspirado por tecnologia e seu avanço desde criança.
-  Há aproximadamente um ano e meio me identifiquei na área da programação e esse foi meu ponto de partida na minha jornada como "dev".
+Inspired by technology and its advancement since childhood.
+I identified myself in the programming area and that was my starting point in my journey as a "dev".
 </p>
 
 <p align="left">
