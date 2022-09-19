@@ -2,8 +2,11 @@
 
 <p>Backend Developer<br/>
 <p align="left"> 
-Inspired by technology and its advancement since childhood.
-I identified myself in the programming area and that was my starting point in my journey as a "dev".
+Fernando is a Fullstack developer, based in Belo Horizonte, Brazil
+He has experience developing web applications and backend servers.
+Fernando specializes in JavaScript and TypeScript-based technologies, and as a collaborator, he keeps up with the new tech community releases and news.
+He is also a medium writer whenever he feels like taking a break from technology subjects: https://medium.com/@fernandortec
+As a good gamer, Fernando enjoys playing on his PC or XBOX, binge-watching Netflix, and can be found workout during lunch break
 </p>
 
 <p align="left">
