@@ -14,7 +14,7 @@ As a good gamer, Fernando enjoys playing on his PC or XBOX, binge-watching Netfl
 </p>
 
 <p align="left">
-  💌 - entre em contato comigo :) - ⤵️
+  💌 - Feel free to contact me :) - ⤵️
 </p>
 
 
