@@ -2,10 +2,9 @@
 
 <p>Backend Developer<br/>
 <p align="left"> 
-Fernando is a Fullstack developer, based in Belo Horizonte, Brazil
-He has experience developing web applications and backend servers.
-Fernando specializes in JavaScript and TypeScript-based technologies, and as a collaborator, he keeps up with the new tech community releases and news.
-As a good gamer, Fernando enjoys playing on his PC or XBOX, binge-watching Netflix, and can be found working out during lunch break
+Sou um desenvolvedor de software Fullstack com mais de 3 anos de experiência, com foco em conhecimento Javascript, Typescript, ReactJs e NodeJS.
+Eu ajudo empresas a entregar experiências únicas que geram valor constante, desenvolvendo software de qualidade.
+
 </p>
 
 <p align="left">
