@@ -1,11 +1,10 @@
 ### Hey there =D
 
-<p>Fernando Rodrigues<br/>
 <p align="left"> 
-I'm Fernando, a Full Stack Developer, specializing in TypeScript, Node.js, and React.js.
+I'm Fernando Rodrigues, a Full Stack Developer, specializing in TypeScript, Node.js, and React.js.
 I pretty much love to code especially when it's about new technologies emerging (right now focusing on Bun) and I'm eager to become a better developer every day.
 
-I have been a JavaScript developer since 2019, and am curently looking for new opportunities.
+I have been a JavaScript developer since 2019, and am currently looking for new opportunities.
 </p>
 
 <p align="left">
