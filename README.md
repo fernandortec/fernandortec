@@ -1,19 +1,11 @@
-### Hello there =D
+### Hey there =D
 
-<p>Fullstack developer<br/>
+<p>Fernando Rodrigues<br/>
 <p align="left"> 
-As a highly skilled Fullstack developer in JS and TS, I specialize in creating custom solutions that generate constant value for the companies I work with.
+I'm Fernando, a Full Stack Developer, specializing in TypeScript, Node.js, and React.js.
+I pretty much love to code especially when it's about new technologies emerging (right now focusing on Bun) and I'm eager to become a better developer every day.
 
-During my experience, I achieved significant results, such as developing a system that updated hundreds of products, positively impacting our company's revenue in ADOPS and sales. In addition, my ability to reduce errors in back-end API integrations, many of which persisted for months, significantly improved the end-user experience and system efficiency.
-
-As a defender of quality and performance, I encouraged "clean code", TDD, and refactoring practices, optimizing initialization methods, login, and page loading, among others, and improving the quality and performance of the development team.
-
-In addition, I created a highly efficient e-commerce system, responsible for managing, storing, and manipulating data, which significantly increased our partnerships and facilitated the acquisition of products for our customers.
-
-With a mindset focused on continuous improvement, I am always looking for ways to add value and deliver customized solutions for the companies I work with.
-
-I love connecting with others, you can reach me at:
-fernandorfigueiredotec@gmail.com
+I have been a JavaScript developer since 2019, and am curently looking for new opportunities.
 </p>
 
 <p align="left">
